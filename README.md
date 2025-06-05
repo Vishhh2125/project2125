@@ -14,7 +14,9 @@ EV Charge Finder is a web application that allows users to locate, add, and mana
 - Interactive map to view charging stations  
 - Add new charging stations to the map  
 - View and manage user's own charging stations  
-- Live location updates  
+- Live location updates
+- for perform edit and delete on any charger a user who cretae the cherger can only deleet or edit tthe charger
+- a user can see all the charger created by all the user 
 
 ## Installation & Setup
 
